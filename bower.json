@@ -1,0 +1,12 @@
+{
+    "name": "pickdown",
+    "version": "0.1.0",
+    "dependencies": {
+        "bootstrap": "~3",
+        "requirejs": "~2",
+        "jquery": "~2",
+        "backbone": "https://github.com/jashkenas/backbone.git",
+        "underscore": "~1",
+        "markdown":"~0"
+    }
+}
